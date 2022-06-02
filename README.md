@@ -1,1 +1,3 @@
 # PaddleOCR
+
+### use flask factory 
